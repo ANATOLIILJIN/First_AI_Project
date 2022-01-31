@@ -1,7 +1,7 @@
 name = input('Enter name: ')
 lastname = input('Enter last name: ')
 age = input('Enter age: ')
-print(type(age))anatoli
+print(type(age))
 
 
 
